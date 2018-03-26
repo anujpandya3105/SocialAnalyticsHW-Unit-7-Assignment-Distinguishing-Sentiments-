@@ -24,16 +24,16 @@ BBC, CBS, CNN, FOX and NY Times
 The program can be executed using Jupyter notebook by clicking run on every cell. The program will store the following 
 outputs in the folder where the program is being executed from.
 
-  -CNN.png (plot for an CNN twitter sentiments)
-  -BBC.png (plot for an BBC twitter sentiments)
-  -FOX.png (plot for an FOX twitter sentiments)
-  -CBS.png (plot for an CBS twitter sentiments)
-  -NYTimes.png (plot for an New York Times twitter sentiments)
-  -BBC sentiments.csv (sentiment data for BBC in excel format)
-  -CBS sentiments.csv (sentiment data for CBS in excel format)
-  -FOX sentiments.csv (sentiment data for FOX in excel format)
-  -NYTimes sentiments.csv (sentiment data for New York Times in excel format)
-  -CNN sentiments.csv (sentiment data for CNN in excel format)
-  -SentimentAnalysisScatter.png(scatter plot for all media companies)
-  -SentimentAnalysisBar.png(bar chart for all media companies)
+  1 -CNN.png (plot for an CNN twitter sentiments)
+  2 -BBC.png (plot for an BBC twitter sentiments)
+  3 -FOX.png (plot for an FOX twitter sentiments)
+  4 -CBS.png (plot for an CBS twitter sentiments)
+  5 -NYTimes.png (plot for an New York Times twitter sentiments)
+  6 -BBC sentiments.csv (sentiment data for BBC in excel format)
+  7 -CBS sentiments.csv (sentiment data for CBS in excel format)
+  8 -FOX sentiments.csv (sentiment data for FOX in excel format)
+  9 -NYTimes sentiments.csv (sentiment data for New York Times in excel format)
+  10 -CNN sentiments.csv (sentiment data for CNN in excel format)
+  11 -SentimentAnalysisScatter.png(scatter plot for all media companies)
+  12 -SentimentAnalysisBar.png(bar chart for all media companies)
   
