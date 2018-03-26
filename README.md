@@ -19,7 +19,7 @@ BBC, CBS, CNN, FOX and NY Times
   each comapny by allocating a unique color.
 6. Plot a scatter for each dataframe and add a legend to show what color represents a company.
 7. Use the data to plot a Bar Chart as well. 
-8. #Note The Bar Chart is plotted based on the mean of the compound(Twitter Polarity)
+   ****Note**** The Bar Chart is plotted based on the mean of the compound(Twitter Polarity)
 
 # Execution of program and outputs
 The program can be executed using Jupyter notebook by clicking run on every cell. The program will store the following 
