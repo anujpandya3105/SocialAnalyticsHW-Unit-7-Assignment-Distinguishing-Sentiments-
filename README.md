@@ -18,7 +18,8 @@ BBC, CBS, CNN, FOX and NY Times
 5. From the Data Frame created above , create 5 smaller data frames for each media company. This is done to render uniqueness to 
   each comapny by allocating a unique color.
 6. Plot a scatter for each dataframe and add a legend to show what color represents a company.
-7. Use the data to plot a Bar Chart as well.
+7. Use the data to plot a Bar Chart as well. 
+#Note*** The Bar Chart is plotted based on the mean of the compound(Twitter Polarity)
 
 # Execution of program and outputs
 The program can be executed using Jupyter notebook by clicking run on every cell. The program will store the following 
