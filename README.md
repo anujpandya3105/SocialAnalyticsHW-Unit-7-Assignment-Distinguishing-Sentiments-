@@ -16,7 +16,7 @@ BBC, CBS, CNN, FOX and NY Times
 4. Next step is to draw a scatter for all the companies in one scatter plot. This is done by storing results of the Vader analysis, 
   in a list as in step 3 above, EXCEPT that this list is NOT reset after every iteration of a company. Convert this to a dataframe.
 5. From the Data Frame created above , create 5 smaller data frames for each media company. This is done to render uniqueness to 
-  each comapny by allocating a unique color. 
+  each comapny by allocating a unique color.
 6.Plot a scatter for each dataframe and add a legend to show what color represents a company.
 7.Use the data to plot a Bar Chart as well.
 
