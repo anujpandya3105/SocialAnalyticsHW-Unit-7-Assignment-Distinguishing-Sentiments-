@@ -37,3 +37,6 @@ outputs in the folder where the program is being executed from.
   11 -SentimentAnalysisScatter.png(scatter plot for all media companies)
   12 -SentimentAnalysisBar.png(bar chart for all media companies)
   
+# Analysis
+  After running the program several times one can infer that the tweet sentiments for each of the media companies is fairly similar. 
+  There does not appear to be a bias for any particular company. 
